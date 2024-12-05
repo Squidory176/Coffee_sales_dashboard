@@ -2,7 +2,7 @@
 A dashboard created by Power BI to provides an interactive and comprehensive view of sales performance
 Coffee Sales Dashboard Overview
 ________________________________________
-Summary & Purpose 
+
 The Coffee Sales Dashboard provides an interactive and comprehensive view of sales performance across various dimensions, assisting in identify trends, and make data-driven decisions. The dashboard is divided into several sections for clarity and usability. Below is a breakdown of the sections and their function for users to populate with the data.
 1.	Total Sales/Total Quantity/Total Orders
 -	Identifies the sales trend based on Total sales/Quantity/Order 
